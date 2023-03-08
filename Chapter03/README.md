@@ -236,7 +236,8 @@ go mod tidy
 
 ### Testing Fungsi
 
-Koneksikan dengan Database : https://youtu.be/Kh6xGWSwQ5s
+Koneksikan dengan Database
+Tonton modul koordinator : https://youtu.be/Kh6xGWSwQ5s
 
 ```go
 package namapackage
